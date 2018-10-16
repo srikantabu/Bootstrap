@@ -44,3 +44,11 @@ body{
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
+
+/*.nav-link, .nav-link:hover{
+    color: #cc6600;
+}*/
+
+.mycard{
+    padding-bottom: 10px;
+}
